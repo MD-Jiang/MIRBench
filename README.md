@@ -60,15 +60,18 @@ To address this, you can extract the **conclusion** part (if it is separated by 
 
 
 ## 📄 License & Citation  
-This project is licensed under **Apache-2.0** .  
+This project is licensed under **Apache-2.0**.
 
 If you use the MIR benchmark or its methods, please cite:
+
 ```bibtex
-@article{DuEtAl2025_MIRBenchmark,
-  title={From Easy to Hard: The MIR Benchmark for Progressive Interleaved Multi-Image Reasoning},
-  author={Hang Du and Jiayang Zhang and Guoshun Nan and Wendi Deng and Zhenyan Chen and Chenyang Zhang and Wang Xiao and Shan Huang and Yuqi Pan and Tao Qi and Sicong Leng},
-  journal={arXiv preprint arXiv:2509.17040},
-  year={2025}
+@InProceedings{Du_2025_ICCV,
+    author    = {Du, Hang and Zhang, Jiayang and Nan, Guoshun and Deng, Wendi and Chen, Zhenyan and Zhang, Chenyang and Xiao, Wang and Huang, Shan and Pan, Yuqi and Qi, Tao and Leng, Sicong},
+    title     = {From Easy to Hard: The MIR Benchmark for Progressive Interleaved Multi-Image Reasoning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {859-869}
 }
 ```
 
